@@ -1,1 +1,1 @@
-# A Web Based Bookshop using Php, Laravel
+# A Web Based Bookshop using PHP with Laravel framework
